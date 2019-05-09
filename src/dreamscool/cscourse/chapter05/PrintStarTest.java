@@ -1,9 +1,11 @@
-package dreamSchool.cscourse.chapter04;
+package dreamscool.cscourse.chapter05;
 
-public class SalaryTax {
+public class PrintStarTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+
 	}
 
 }z
